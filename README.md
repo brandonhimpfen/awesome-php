@@ -58,6 +58,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Joomla](https://www.joomla.org/) – Flexible CMS.
 - [Magento](https://github.com/magento/magento2) – E-commerce platform.
 - [Shopware](https://github.com/shopware/platform) – Modern open e-commerce platform.
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) – Self-hosted CMS built on Laravel 12, React 19, and Tailwind v4 with REST API and headless mode.
 
 ## Templating Engines
 
