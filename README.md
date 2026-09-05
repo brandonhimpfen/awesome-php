@@ -1,4 +1,4 @@
-# Awesome PHP [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome PHP [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1113474715.svg)](https://doi.org/10.5281/zenodo.19681641)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -133,11 +133,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Web Development](https://github.com/awesomelistsio/awesome-web-development)
-- [Awesome APIs](https://github.com/awesomelistsio/awesome-apis)
-- [Awesome Laravel](https://github.com/awesomelistsio/awesome-laravel)
-- [Awesome WordPress](https://github.com/awesomelistsio/awesome-wordpress)
-- [Awesome Backend Development](https://github.com/awesomelistsio/awesome-backend)
+- [Awesome Web Development](https://github.com/brandonhimpfen/awesome-web-development)
+- [Awesome APIs](https://github.com/brandonhimpfen/awesome-apis)
+- [Awesome Laravel](https://github.com/brandonhimpfen/awesome-laravel)
+- [Awesome WordPress](https://github.com/brandonhimpfen/awesome-wordpress)
+- [Awesome Backend Development](https://github.com/brandonhimpfen/awesome-backend)
 
 ## Contribute
 
